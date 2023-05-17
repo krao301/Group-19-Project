@@ -1,0 +1,4 @@
+{
+	"NP": ["NN", "NNS", "NNP", "NNPS", "PRP", "PRP$"],
+	"VP": ["VB", "VBD", "VBN", "VBG", "VBP", "VBG"]
+}
